@@ -1,0 +1,7 @@
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\bin\Debug\Szamolo01.exe.config
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\bin\Debug\Szamolo01.exe
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\bin\Debug\Szamolo01.pdb
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\obj\Debug\Szamolo01.csprojAssemblyReference.cache
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\obj\Debug\Szamolo01.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\obj\Debug\Szamolo01.exe
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\obj\Debug\Szamolo01.pdb
