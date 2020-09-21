@@ -15,7 +15,7 @@ namespace Szamolo01
             bool tovabb = true;
 
             /* Reguláris kifejezés a műveleti jelek ellenőrzéséhez */
-            Regex pattern = new Regex(@"^[\+\-\/\*]");
+            Regex pattern = new Regex(@"^[+-/*]");
 
             // A számolás
             int szamol(int a, int b, string m)
