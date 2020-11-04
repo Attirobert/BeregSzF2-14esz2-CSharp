@@ -1,0 +1,10 @@
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\2020.11.03\MenuAtlagok\MenuAtlagok\bin\Debug\MenuAtlagok.exe.config
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\2020.11.03\MenuAtlagok\MenuAtlagok\bin\Debug\MenuAtlagok.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\2020.11.03\MenuAtlagok\MenuAtlagok\bin\Debug\MenuAtlagok.pdb
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\2020.11.03\MenuAtlagok\MenuAtlagok\obj\Debug\MenuAtlagok.csprojAssemblyReference.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\2020.11.03\MenuAtlagok\MenuAtlagok\obj\Debug\MenuAtlagok.Form1.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\2020.11.03\MenuAtlagok\MenuAtlagok\obj\Debug\MenuAtlagok.Properties.Resources.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\2020.11.03\MenuAtlagok\MenuAtlagok\obj\Debug\MenuAtlagok.csproj.GenerateResource.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\2020.11.03\MenuAtlagok\MenuAtlagok\obj\Debug\MenuAtlagok.csproj.CoreCompileInputs.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\2020.11.03\MenuAtlagok\MenuAtlagok\obj\Debug\MenuAtlagok.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\2020.11.03\MenuAtlagok\MenuAtlagok\obj\Debug\MenuAtlagok.pdb

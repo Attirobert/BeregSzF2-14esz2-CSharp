@@ -1,0 +1,10 @@
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DatumIdoNoveles\bin\Debug\DatumIdoNoveles.exe.config
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DatumIdoNoveles\bin\Debug\DatumIdoNoveles.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DatumIdoNoveles\bin\Debug\DatumIdoNoveles.pdb
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.csprojAssemblyReference.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.Form1.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.Properties.Resources.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.csproj.GenerateResource.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.csproj.CoreCompileInputs.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.pdb

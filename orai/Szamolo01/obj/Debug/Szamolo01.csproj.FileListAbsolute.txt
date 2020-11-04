@@ -1,0 +1,14 @@
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\bin\Debug\Szamolo01.exe.config
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\bin\Debug\Szamolo01.exe
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\bin\Debug\Szamolo01.pdb
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\obj\Debug\Szamolo01.csprojAssemblyReference.cache
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\obj\Debug\Szamolo01.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\obj\Debug\Szamolo01.exe
+C:\xampp\htdocs\beregszf\SzF2-14esz2\Szoftver\Szamolo01\Szamolo01\obj\Debug\Szamolo01.pdb
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Szamolo01\bin\Debug\Szamolo01.exe.config
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Szamolo01\bin\Debug\Szamolo01.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Szamolo01\bin\Debug\Szamolo01.pdb
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Szamolo01\obj\Debug\Szamolo01.csprojAssemblyReference.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Szamolo01\obj\Debug\Szamolo01.csproj.CoreCompileInputs.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Szamolo01\obj\Debug\Szamolo01.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Szamolo01\obj\Debug\Szamolo01.pdb
