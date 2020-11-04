@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatumIdoNoveles", "DatumIdo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datumnoveles", "Datumnoveles\Datumnoveles.csproj", "{FE23CB39-ABCE-44B0-88DC-E1C94931F861}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTranszform", "MatrixTranszform\MatrixTranszform.csproj", "{C1A1FA60-9179-489F-A0EA-C08E9E40DCAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{FE23CB39-ABCE-44B0-88DC-E1C94931F861}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE23CB39-ABCE-44B0-88DC-E1C94931F861}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE23CB39-ABCE-44B0-88DC-E1C94931F861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A1FA60-9179-489F-A0EA-C08E9E40DCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A1FA60-9179-489F-A0EA-C08E9E40DCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A1FA60-9179-489F-A0EA-C08E9E40DCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A1FA60-9179-489F-A0EA-C08E9E40DCAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
