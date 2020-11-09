@@ -16,6 +16,8 @@ namespace MatrixDoga
 
         private int min = -99; // A generált legkisebb szám
         private int max = 99; // A generált legnagyobb szám
+        private int oszlopSzelesseg = 35;
+
         public Form1()
         {
             InitializeComponent();
@@ -38,7 +40,7 @@ namespace MatrixDoga
             for (int i = 0; i < meret; i++)
             {
                 matrix.Columns.Add(String.Empty, String.Empty);
-                matrix.Columns[i].Width = 35;
+                matrix.Columns[i].Width = oszlopSzelesseg;
             }
 
             // Sorok létrehozása
@@ -114,9 +116,9 @@ namespace MatrixDoga
 
             for (int i = 0; i < m; i++)
             {
-                for (int j = m-1; j >= 0; j--)
+                for (int j = 0; j >= m; j++)
                 {
-                    sum += Convert.ToInt32(dgva[i, j].Value) * Convert.ToInt32(dgvb[i, j].Value);
+                    sum += Convert.ToInt32(dgva[i, j].Value) * Convert.ToInt32(dgvb[m-i, m-j].Value);
                 }
             }
 

@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\orai"
+    "\\Hallgatók",
+    "\\Hallgatók\\Elek Edina",
+    "\\Hallgatók\\Elek Edina\\Szoftverfejlesztes",
+    "\\Hallgatók\\Elek Edina\\Szoftverfejlesztes\\Dolgozat",
+    "\\Hallgatók\\Elek Edina\\Szoftverfejlesztes\\Dolgozat\\dolgozat okt 13",
+    "\\Hallgatók\\Elek Edina\\Szoftverfejlesztes\\Dolgozat\\dolgozat okt 13\\dolgozat",
+    "\\Hallgatók\\Elek Edina\\Szoftverfejlesztes\\Dolgozat\\dolgozat okt 13\\dolgozat\\WindowsFormsApp1"
   ],
-  "SelectedNode": "\\orai",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\Hallgatók\\Elek Edina\\Szoftverfejlesztes\\Dolgozat\\dolgozat okt 13\\dolgozat\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+  "PreviewInSolutionExplorer": true
 }
