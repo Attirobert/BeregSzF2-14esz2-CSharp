@@ -1,0 +1,10 @@
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\TabControl02\bin\Debug\TabControl02.exe.config
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\TabControl02\bin\Debug\TabControl02.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\TabControl02\bin\Debug\TabControl02.pdb
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\TabControl02\obj\Debug\TabControl02.csprojAssemblyReference.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\TabControl02\obj\Debug\TabControl02.Form1.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\TabControl02\obj\Debug\TabControl02.Properties.Resources.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\TabControl02\obj\Debug\TabControl02.csproj.GenerateResource.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\TabControl02\obj\Debug\TabControl02.csproj.CoreCompileInputs.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\TabControl02\obj\Debug\TabControl02.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\TabControl02\obj\Debug\TabControl02.pdb

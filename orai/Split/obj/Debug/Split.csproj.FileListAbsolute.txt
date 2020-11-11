@@ -1,0 +1,10 @@
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\Split\bin\Debug\Split.exe.config
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\Split\bin\Debug\Split.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\Split\bin\Debug\Split.pdb
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\Split\obj\Debug\Split.csprojAssemblyReference.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\Split\obj\Debug\Split.Form1.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\Split\obj\Debug\Split.Properties.Resources.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\Split\obj\Debug\Split.csproj.GenerateResource.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\Split\obj\Debug\Split.csproj.CoreCompileInputs.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\Split\obj\Debug\Split.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\Split\obj\Debug\Split.pdb

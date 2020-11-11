@@ -1,0 +1,20 @@
+C:\Users\2019411\source\repos\Dolgozat\Dolgozat\bin\Debug\Dolgozat.exe.config
+C:\Users\2019411\source\repos\Dolgozat\Dolgozat\bin\Debug\Dolgozat.exe
+C:\Users\2019411\source\repos\Dolgozat\Dolgozat\bin\Debug\Dolgozat.pdb
+C:\Users\2019411\source\repos\Dolgozat\Dolgozat\obj\Debug\Dolgozat.csprojAssemblyReference.cache
+C:\Users\2019411\source\repos\Dolgozat\Dolgozat\obj\Debug\Dolgozat.Form1.resources
+C:\Users\2019411\source\repos\Dolgozat\Dolgozat\obj\Debug\Dolgozat.Properties.Resources.resources
+C:\Users\2019411\source\repos\Dolgozat\Dolgozat\obj\Debug\Dolgozat.csproj.GenerateResource.cache
+C:\Users\2019411\source\repos\Dolgozat\Dolgozat\obj\Debug\Dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\2019411\source\repos\Dolgozat\Dolgozat\obj\Debug\Dolgozat.exe
+C:\Users\2019411\source\repos\Dolgozat\Dolgozat\obj\Debug\Dolgozat.pdb
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\Dolgozatok\2020.10.13 - Mátrix\Seres Róbert\bin\Debug\Dolgozat.exe.config
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\Dolgozatok\2020.10.13 - Mátrix\Seres Róbert\bin\Debug\Dolgozat.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\Dolgozatok\2020.10.13 - Mátrix\Seres Róbert\bin\Debug\Dolgozat.pdb
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\Dolgozatok\2020.10.13 - Mátrix\Seres Róbert\obj\Debug\Dolgozat.csprojAssemblyReference.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\Dolgozatok\2020.10.13 - Mátrix\Seres Róbert\obj\Debug\Dolgozat.Form1.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\Dolgozatok\2020.10.13 - Mátrix\Seres Róbert\obj\Debug\Dolgozat.Properties.Resources.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\Dolgozatok\2020.10.13 - Mátrix\Seres Róbert\obj\Debug\Dolgozat.csproj.GenerateResource.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\Dolgozatok\2020.10.13 - Mátrix\Seres Róbert\obj\Debug\Dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\Dolgozatok\2020.10.13 - Mátrix\Seres Róbert\obj\Debug\Dolgozat.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\Dolgozatok\2020.10.13 - Mátrix\Seres Róbert\obj\Debug\Dolgozat.pdb
