@@ -1,0 +1,28 @@
+﻿<UserControl x:Class="SZBkiseloadas.Icons.EyeOpen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SZBkiseloadas.Icons"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+        <Canvas Name="svg3" Width="14.667" Height="10">
+            <Canvas.RenderTransform>
+                <TranslateTransform X="0" Y="0"/>
+            </Canvas.RenderTransform>
+            <Canvas.Resources/>
+            <!--Unknown tag: metadata-->
+            <!--Unknown tag: sodipodi:namedview-->
+            <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path" Fill="#FF24C165">
+                <Path.Data>
+                    <PathGeometry Figures="M225.667 1222.9a7.825 7.825 0 0 1 8.933 0 7.962 7.962 0 0 1 2.867 3.6 7.861 7.861 0 0 1-11.8 3.6 7.962 7.962 0 0 1-2.867-3.6A7.547 7.547 0 0 1 225.667 1222.9Zm2.067 6a3.235 3.235 0 0 0 2.333 1 3.026 3.026 0 0 0 2.333-1 3.526 3.526 0 0 0 1-2.333 3.127 3.127 0 0 0-1-2.333 3.526 3.526 0 0 0-2.333-1 3.026 3.026 0 0 0-2.333 1 3.526 3.526 0 0 0-1 2.333A3.235 3.235 0 0 0 227.733 1228.9Zm1-3.8a1.933 1.933 0 1 1-.6 1.4A1.919 1.919 0 0 1 228.733 1225.1Z" FillRule="NonZero"/>
+                </Path.Data>
+                <Path.RenderTransform>
+                    <TranslateTransform X="-222.8" Y="-1221.5"/>
+                </Path.RenderTransform>
+            </Path>
+        </Canvas>
+    </Viewbox>
+
+</UserControl>

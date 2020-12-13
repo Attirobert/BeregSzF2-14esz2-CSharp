@@ -1,0 +1,11 @@
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\FormsLife\obj\Debug\FormsLife.csprojAssemblyReference.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\FormsLife\obj\Debug\FormsLife.frmFo.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\FormsLife\obj\Debug\FormsLife.Form2.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\FormsLife\obj\Debug\FormsLife.Properties.Resources.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\FormsLife\obj\Debug\FormsLife.csproj.GenerateResource.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\FormsLife\obj\Debug\FormsLife.csproj.CoreCompileInputs.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\FormsLife\bin\Debug\FormsLife.exe.config
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\FormsLife\bin\Debug\FormsLife.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\FormsLife\bin\Debug\FormsLife.pdb
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\FormsLife\obj\Debug\FormsLife.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\FormsLife\obj\Debug\FormsLife.pdb

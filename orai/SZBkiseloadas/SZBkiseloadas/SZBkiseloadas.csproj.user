@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="FirstWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\BackArrow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\Bin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\Close.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\Cloud.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\EyeClose.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\EyeOpen.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\FirstPic.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\Home.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\Information.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\Minus.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\NextArrow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\Plus.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\Profil.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\Reload.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\Send.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\Success.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Icons\Wallet.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindowPages\Notifications\DeleteAccount.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindowPages\Notifications\NetworkError.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindowPages\Notifications\SignOut.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindowPages\Notifications\Successful.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindowPages\Profil.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindowPages\ProfilSubPages\JelszoModositas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindowPages\ProfilSubPages\NevModositas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindowPages\Transfer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindowPages\Wallet.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegistrationWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ActualBalanceViewer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\Button1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\Button2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ButtonHome.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ButtonPlus.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ButtonProfil.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ButtonReload.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\NotifiButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\NumPad.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\PasswordBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\PaymentHitoryItem.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ProfilButton1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ProfilButton2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\TextBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="FirstWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\BackArrow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\Bin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\Close.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\Cloud.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\EyeClose.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\EyeOpen.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\FirstPic.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\Home.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\Information.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\Minus.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\NextArrow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\Plus.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\Profil.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\Reload.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\Send.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\Success.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Icons\Wallet.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindowPages\Notifications\DeleteAccount.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindowPages\Notifications\NetworkError.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindowPages\Notifications\SignOut.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindowPages\Notifications\Successful.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindowPages\Profil.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindowPages\ProfilSubPages\JelszoModositas.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindowPages\ProfilSubPages\NevModositas.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindowPages\Transfer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindowPages\Wallet.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RegistrationWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ActualBalanceViewer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\Button1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\Button2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ButtonHome.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ButtonPlus.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ButtonProfil.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ButtonReload.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\NotifiButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\NumPad.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\PasswordBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\PaymentHitoryItem.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ProfilButton1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ProfilButton2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\TextBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

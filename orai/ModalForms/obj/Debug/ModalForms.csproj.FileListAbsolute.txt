@@ -1,0 +1,11 @@
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\ModalForms\bin\Debug\ModalForms.exe.config
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\ModalForms\bin\Debug\ModalForms.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\ModalForms\bin\Debug\ModalForms.pdb
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\ModalForms\obj\Debug\ModalForms.csprojAssemblyReference.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\ModalForms\obj\Debug\ModalForms.frmFo.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\ModalForms\obj\Debug\ModalForms.FormAdat.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\ModalForms\obj\Debug\ModalForms.Properties.Resources.resources
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\ModalForms\obj\Debug\ModalForms.csproj.GenerateResource.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\ModalForms\obj\Debug\ModalForms.csproj.CoreCompileInputs.cache
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\ModalForms\obj\Debug\ModalForms.exe
+C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\orai\ModalForms\obj\Debug\ModalForms.pdb
