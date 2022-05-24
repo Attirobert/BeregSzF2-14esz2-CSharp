@@ -8,3 +8,14 @@ C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szof
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Csillagjegyek\obj\Debug\Csillagjegyek.csproj.CoreCompileInputs.cache
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Csillagjegyek\obj\Debug\Csillagjegyek.exe
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Csillagjegyek\obj\Debug\Csillagjegyek.pdb
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Csillagjegyek\bin\Debug\Csillagjegyek.exe.config
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Csillagjegyek\bin\Debug\Csillagjegyek.exe
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Csillagjegyek\bin\Debug\Csillagjegyek.pdb
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Csillagjegyek\obj\Debug\Csillagjegyek.csproj.AssemblyReference.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Csillagjegyek\obj\Debug\Csillagjegyek.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Csillagjegyek\obj\Debug\Csillagjegyek.Csillagjegy.resources
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Csillagjegyek\obj\Debug\Csillagjegyek.Properties.Resources.resources
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Csillagjegyek\obj\Debug\Csillagjegyek.csproj.GenerateResource.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Csillagjegyek\obj\Debug\Csillagjegyek.csproj.CoreCompileInputs.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Csillagjegyek\obj\Debug\Csillagjegyek.exe
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Csillagjegyek\obj\Debug\Csillagjegyek.pdb
