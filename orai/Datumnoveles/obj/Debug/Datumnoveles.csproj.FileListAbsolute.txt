@@ -8,3 +8,14 @@ C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szof
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Datumnoveles\bin\Debug\Datumnoveles.pdb
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Datumnoveles\obj\Debug\Datumnoveles.exe
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\Datumnoveles\obj\Debug\Datumnoveles.pdb
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Datumnoveles\bin\Debug\Datumnoveles.exe.config
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Datumnoveles\bin\Debug\Datumnoveles.exe
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Datumnoveles\bin\Debug\Datumnoveles.pdb
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Datumnoveles\obj\Debug\Datumnoveles.csproj.AssemblyReference.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Datumnoveles\obj\Debug\Datumnoveles.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Datumnoveles\obj\Debug\Datumnoveles.Form1.resources
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Datumnoveles\obj\Debug\Datumnoveles.Properties.Resources.resources
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Datumnoveles\obj\Debug\Datumnoveles.csproj.GenerateResource.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Datumnoveles\obj\Debug\Datumnoveles.csproj.CoreCompileInputs.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Datumnoveles\obj\Debug\Datumnoveles.exe
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\Datumnoveles\obj\Debug\Datumnoveles.pdb

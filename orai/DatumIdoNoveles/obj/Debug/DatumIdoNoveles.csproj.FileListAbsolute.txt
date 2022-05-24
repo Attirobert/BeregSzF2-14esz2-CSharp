@@ -8,3 +8,14 @@ C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szof
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.csproj.CoreCompileInputs.cache
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.exe
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.pdb
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DatumIdoNoveles\bin\Debug\DatumIdoNoveles.exe.config
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DatumIdoNoveles\bin\Debug\DatumIdoNoveles.exe
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DatumIdoNoveles\bin\Debug\DatumIdoNoveles.pdb
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.csproj.AssemblyReference.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.DateTimeChange.resources
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.Properties.Resources.resources
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.csproj.GenerateResource.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.csproj.CoreCompileInputs.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.exe
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DatumIdoNoveles\obj\Debug\DatumIdoNoveles.pdb

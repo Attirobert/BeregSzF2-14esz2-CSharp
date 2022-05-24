@@ -8,3 +8,14 @@ C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szof
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DinamKomp\obj\Debug\DinamKomp.csproj.CoreCompileInputs.cache
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DinamKomp\obj\Debug\DinamKomp.exe
 C:\Users\kovac\OneDrive\Beregszászi\Osztályok\2020-21 tanév\SzF 2-14esz2\Szoftverfejlesztés\BeregSzF2-14esz2\Szamolo01\DinamKomp\obj\Debug\DinamKomp.pdb
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DinamKomp\bin\Debug\DinamKomp.exe.config
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DinamKomp\bin\Debug\DinamKomp.exe
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DinamKomp\bin\Debug\DinamKomp.pdb
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DinamKomp\obj\Debug\DinamKomp.csproj.AssemblyReference.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DinamKomp\obj\Debug\DinamKomp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DinamKomp\obj\Debug\DinamKomp.Form1.resources
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DinamKomp\obj\Debug\DinamKomp.Properties.Resources.resources
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DinamKomp\obj\Debug\DinamKomp.csproj.GenerateResource.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DinamKomp\obj\Debug\DinamKomp.csproj.CoreCompileInputs.cache
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DinamKomp\obj\Debug\DinamKomp.exe
+C:\Users\kovac\Source\Repos\Attirobert\BeregSzF2-14esz2-CSharp\orai\DinamKomp\obj\Debug\DinamKomp.pdb
