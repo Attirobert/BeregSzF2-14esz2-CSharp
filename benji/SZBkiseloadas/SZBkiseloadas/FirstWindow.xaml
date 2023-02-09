@@ -1,0 +1,25 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SZBkiseloadas"
+        xmlns:icons="clr-namespace:SZBkiseloadas.Icons"
+        xmlns:UserControls="clr-namespace:SZBkiseloadas.UserControls" x:Class="SZBkiseloadas.FirstWindow"
+        mc:Ignorable="d"
+        Title="FirstWindow" Height="645" Width="356" WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="374"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <icons:FirstPic Grid.Row="0" Width="246"/>
+
+        <StackPanel Grid.Row="1">
+            <UserControls:Button1 Margin="0 5" HorizontalAlignment="Center" Text="Belépés"  PreviewMouseUp="Button1_PreviewMouseUp" Width="260"/>
+
+            <UserControls:Button2 Margin="0 5" HorizontalAlignment="Center" Text="Regisztráció" PreviewMouseUp="Button2_PreviewMouseUp"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

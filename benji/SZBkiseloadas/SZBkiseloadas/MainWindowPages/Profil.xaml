@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="SZBkiseloadas.MainWindowPages.Profil"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SZBkiseloadas.MainWindowPages" xmlns:icon="clr-namespace:SZBkiseloadas.Icons" xmlns:UserControls="clr-namespace:SZBkiseloadas.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="566" d:DesignWidth="356" x:Name="profilMain">
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="1" Background="White" VerticalAlignment="Top">
+            <UserControls:ProfilButton1 Text="Név módosítása" x:Name="NevModositas" PreviewMouseUp="NevModositas_PreviewMouseUp" Cursor="Hand"/>
+            <UserControls:ProfilButton1 Text="Jelszó módosítása" x:Name="JelszoModositas" PreviewMouseUp="JelszoModositas_PreviewMouseUp" Cursor="Hand"/>
+            <UserControls:ProfilButton2 Text="Fiók törlése" x:Name="FiokTorlese" PreviewMouseUp="FiokTorlese_PreviewMouseUp" Cursor="Hand"/>
+            <UserControls:ProfilButton2 Text="Kijelentkezés" x:Name="Kijelentkezés" PreviewMouseUp="Kijelentkezés_PreviewMouseUp" Cursor="Hand"/>
+        </StackPanel>
+        <Grid Grid.Row="0" Name="header" Background="White">
+            <Grid.Effect>
+                <DropShadowEffect BlurRadius="15" Direction="-90" RenderingBias="Quality" ShadowDepth="2" Color="#FFE8E8E8"/>
+            </Grid.Effect>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="60"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <icon:Profil Grid.Column="0" Height="23" Fill="Black" />
+            <UserControl Grid.Column="1" Content="Profil" FontFamily="Segoe UI" VerticalAlignment="Center" FontSize="25" FontWeight="Bold"/>
+        </Grid>
+    </Grid>
+</UserControl>

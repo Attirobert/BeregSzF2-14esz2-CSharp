@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="SZBkiseloadas.UserControls.ButtonHome"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SZBkiseloadas.UserControls"
+             xmlns:icon="clr-namespace:SZBkiseloadas.Icons"
+             mc:Ignorable="d" d:DesignWidth="90">
+    <Grid x:Name="homeBtn" Height="80"  Background="#24C165" PreviewMouseUp="homeBtn_PreviewMouseUp" Cursor="Hand">
+        <icon:Home Height="27"/>
+        <Border x:Name="indigo" Visibility="Collapsed" VerticalAlignment="Bottom" CornerRadius="1.5" Height="3" Width="50" Background="White" Margin="0 12"/>
+    </Grid>
+</UserControl>
