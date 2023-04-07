@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kovac\\Source\\Repos\\Attirobert\\BeregSzF2-14esz2-CSharp\\orai\\SZBkiseloadas\\SZBkiseloadas\\SZBkiseloadas.csproj": {}
+    "E:\\Source\\Repos\\BeregSzF2-14esz2-CSharp\\orai\\SZBkiseloadas\\SZBkiseloadas\\SZBkiseloadas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kovac\\Source\\Repos\\Attirobert\\BeregSzF2-14esz2-CSharp\\orai\\SZBkiseloadas\\SZBkiseloadas\\SZBkiseloadas.csproj": {
+    "E:\\Source\\Repos\\BeregSzF2-14esz2-CSharp\\orai\\SZBkiseloadas\\SZBkiseloadas\\SZBkiseloadas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kovac\\Source\\Repos\\Attirobert\\BeregSzF2-14esz2-CSharp\\orai\\SZBkiseloadas\\SZBkiseloadas\\SZBkiseloadas.csproj",
+        "projectUniqueName": "E:\\Source\\Repos\\BeregSzF2-14esz2-CSharp\\orai\\SZBkiseloadas\\SZBkiseloadas\\SZBkiseloadas.csproj",
         "projectName": "SZBkiseloadas",
-        "projectPath": "C:\\Users\\kovac\\Source\\Repos\\Attirobert\\BeregSzF2-14esz2-CSharp\\orai\\SZBkiseloadas\\SZBkiseloadas\\SZBkiseloadas.csproj",
+        "projectPath": "E:\\Source\\Repos\\BeregSzF2-14esz2-CSharp\\orai\\SZBkiseloadas\\SZBkiseloadas\\SZBkiseloadas.csproj",
         "packagesPath": "C:\\Users\\kovac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kovac\\Source\\Repos\\Attirobert\\BeregSzF2-14esz2-CSharp\\orai\\SZBkiseloadas\\SZBkiseloadas\\obj\\",
+        "outputPath": "E:\\Source\\Repos\\BeregSzF2-14esz2-CSharp\\orai\\SZBkiseloadas\\SZBkiseloadas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kovac\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
