@@ -46,7 +46,7 @@ namespace SZBkiseloadas {
         /// </summary>
         [System.STAThreadAttribute()]
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.0.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.17.0")]
         public static void Main() {
             SZBkiseloadas.App app = new SZBkiseloadas.App();
             app.Run();
